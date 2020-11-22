@@ -132,8 +132,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 23',
+            'slug' => Str::slug('Autre sujet 23'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -142,8 +142,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 75',
+            'slug' => Str::slug('Autre sujet 75'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -152,8 +152,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 76',
+            'slug' => Str::slug('Parlons du Hentai 76'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -162,8 +162,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 77',
+            'slug' => Str::slug('Autre sujet 77'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -172,8 +172,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 78',
+            'slug' => Str::slug('Autre sujet 78'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -182,8 +182,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 79',
+            'slug' => Str::slug('Parlons du Hentai 79'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -192,8 +192,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 80',
+            'slug' => Str::slug('Autre sujet 80'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -202,8 +202,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 81',
+            'slug' => Str::slug('Autre sujet 81'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -212,8 +212,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 82',
+            'slug' => Str::slug('Parlons du Hentai 82'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -222,8 +222,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 83',
+            'slug' => Str::slug('Autre sujet 83'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -232,8 +232,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 84',
+            'slug' => Str::slug('Autre sujet 84'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -242,8 +242,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 85',
+            'slug' => Str::slug('Parlons du Hentai 85'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -252,8 +252,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 86',
+            'slug' => Str::slug('Autre sujet 86'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -262,8 +262,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 87',
+            'slug' => Str::slug('Autre sujet 87'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -272,8 +272,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 88',
+            'slug' => Str::slug('Parlons du Hentai 88'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -282,8 +282,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 89',
+            'slug' => Str::slug('Autre sujet 89'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -292,8 +292,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 90',
+            'slug' => Str::slug('Autre sujet 90'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -302,8 +302,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 91',
+            'slug' => Str::slug('Parlons du Hentai 91'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -312,8 +312,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 92',
+            'slug' => Str::slug('Autre sujet 92'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -322,8 +322,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 93',
+            'slug' => Str::slug('Autre sujet 93'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -332,8 +332,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 94',
+            'slug' => Str::slug('Parlons du Hentai 94'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -342,8 +342,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 95',
+            'slug' => Str::slug('Autre sujet 95'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -352,8 +352,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 96',
+            'slug' => Str::slug('Autre sujet 96'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -362,8 +362,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 1,
             'category_id' => 1,
             'sub_category_id' => 1,
-            'title' => 'Parlons du Hentai',
-            'slug' => Str::slug('Parlons du Hentai'),
+            'title' => 'Parlons du Hentai 97',
+            'slug' => Str::slug('Parlons du Hentai 97'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -372,8 +372,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 98',
+            'slug' => Str::slug('Autre sujet 98'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
@@ -382,8 +382,8 @@ class DatabaseSeeder extends Seeder
             'city_id' => 2,
             'category_id' => 2,
             'sub_category_id' => 1,
-            'title' => 'Autre sujet',
-            'slug' => Str::slug('Autre sujet'),
+            'title' => 'Autre sujet 99',
+            'slug' => Str::slug('Autre sujet 99'),
             'description' => "On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes)."
         ]);
 
